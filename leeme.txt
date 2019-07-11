@@ -1,3 +1,5 @@
 un par
 de lineas
 modificado en master cuando se modificaba la rama test
+hemos viajado al pasado a solucionar un problema
+y a crear otros seis, probablamente
